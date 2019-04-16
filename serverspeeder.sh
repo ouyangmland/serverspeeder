@@ -7,11 +7,11 @@ export PATH
 #授权文件自动生成url
 APX=https://www.speedsvip.com/apx.php
 #安装包下载地址
-INSTALLPACK=https://github.com/91yun/serverspeeder/blob/test/91yunserverspeeder.tar.gz?raw=true
+INSTALLPACK=https://github.com/ouyangmland/serverspeeder/blob/test/91yunserverspeeder.tar.gz?raw=true
 #判断版本支持情况的地址
-CHECKSYSTEM=https://raw.githubusercontent.com/91yun/serverspeeder/test/serverspeederbin.txt
+CHECKSYSTEM=https://raw.githubusercontent.com/ouyangmland/serverspeeder/test/serverspeederbin.txt
 #bin下载地址
-BINURL=http://rs.91yun.pw/
+BINURL=http://rs.91yun.pw/	
 
 
 
